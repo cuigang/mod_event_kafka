@@ -1,0 +1,5 @@
+<configuration name="event_kafka.conf" description="kafka Event">
+  <settings>
+    <param name="endpoint" value="tcp://127.0.0.1:5556"/>
+  </settings>
+</configuration>
