@@ -5,6 +5,7 @@ FS_LIB=/usr/local/freeswitch/lib
 FS_MODULES=/usr/local/freeswitch/mod
 ################################
 KF_INCLUDES=/usr/local/Cellar/librdkafka/0.11.5/include/librdkafka
+# KF_INCLUDES=/usr/include/librdkafka
 
 
 CC=gcc 
